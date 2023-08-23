@@ -17,7 +17,7 @@ export default function NotFound() {
               to="/"
               className="underline text-blue-900 hover:text-blue-600"
             >
-              homepage
+              Homepage
             </Link>
           </p>
         </div>
